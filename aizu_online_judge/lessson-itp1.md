@@ -6,44 +6,7 @@
 
 ### 1_A: Hello World
 
-Python3
-
-```python
-print('Hello World')
-```
-
-Go
-
-```go
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Printf("Hello World\n")
-}
-```
-
-Rust
-
-```rust
-fn main() {
-    println!("Hello World");
-}
-```
-
-JavaScript
-
-```javascript
-console.log('Hello World');
-```
-
-PHP
-
-```php
-<?php
-    echo 'Hello World' .PHP_EOL;
-```
+[Go](/itp1/itp1_1_a.go), [JavaScript](/itp1/itp1_1_a.js), [PHP](/itp1/itp1_1_a.php), [Python3](/itp1/itp1_1_a.py), [Rust](/itp1/itp1_1_a.rs)
 
 ### 1_B: X Cubic
 
